@@ -1,3 +1,14 @@
+/*
+ * Saoni Mukherjee
+ * June 29, 2105
+ *
+ * The code counts the number of instructions
+ * in an .isa file
+ *
+ * Argument 0 = isa file name
+ *
+ */
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
